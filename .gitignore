@@ -1,3 +1,6 @@
 .DS_Store
 .ipynb_checkpoints/
 .venv/
+
+# Full combined dataset (run data/raw/combine.py to regenerate)
+data/raw/US_Accidents_March23.csv
