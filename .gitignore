@@ -4,5 +4,7 @@
 
 # Full combined dataset (run data/raw/combine.py to regenerate)
 data/raw/US_Accidents_March23.csv
+data/processed/*.csv
+data/processed/kpi/
 __pycache__/
 *.pyc
