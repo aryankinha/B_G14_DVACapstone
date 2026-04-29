@@ -232,14 +232,14 @@ The project follows a structured 7-step workflow:
 
 **Project Report**
 
-- [ ] Final report exported as PDF into `reports/`
-- [ ] Cover page, executive summary, sector context, problem statement
-- [ ] Data description, cleaning methodology, KPI framework
+- [x] Final report exported as PDF into `reports/`
+- [x] Cover page, executive summary, sector context, problem statement
+- [x] Data description, cleaning methodology, KPI framework
 - [x] EDA with written insights, statistical analysis results (notebooks 03 and 04 complete)
-- [ ] Dashboard screenshots and explanation
-- [ ] 8-12 key insights in decision language
-- [ ] 3-5 actionable recommendations with impact estimates
-- [ ] Contribution matrix matches GitHub history
+- [x] Dashboard screenshots and explanation
+- [x] 8-12 key insights in decision language
+- [x] 3-5 actionable recommendations with impact estimates
+- [x] Contribution matrix matches GitHub history
 
 **Presentation Deck**
 
