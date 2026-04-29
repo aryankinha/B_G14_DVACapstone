@@ -13,21 +13,20 @@
 | **Sector**          | Transportation / Public Safety                                                                                             |
 | **Team ID**         | B_G14                                                                                                                      |
 | **Section**         | DVA-B                                                                                                                      |
-| **Faculty Mentor**  | _To be filled_                                                                                                             |
+| **Faculty Mentor**  | Newton School of Technology Faculty                                                                                        |
 | **Institute**       | Newton School of Technology                                                                                                |
-| **Submission Date** | _To be filled_                                                                                                             |
+| **Submission Date** | April 2026                                                                                                                 |
 
 ### Team Members
 
-| Role                 | GitHub Username |
-| -------------------- | --------------- |
-| Project Lead         | `AalokeCode`    |
-| Data Lead            | `aryankinha`    |
-| ETL Lead             | `aryankinha`    |
-| Analysis Lead        | `punityadavrao` |
-| Visualization Lead   | `somraj112`     |
-| Strategy Lead        | `bigXalok`      |
-| PPT and Quality Lead | `AalokeCode`    |
+| Name                        | GitHub            | Role                     |
+| --------------------------- | ----------------- | ------------------------ |
+| Aaloke Eppalapalli          | `AalokeCode`      | Project Lead · PPT/Viva  |
+| Aryan Kinha                 | `aryankinha`      | ETL Lead · EDA Lead      |
+| Punit Yadav Rao             | `punityadavrao`   | Support                  |
+| Somraj Nandi                | `somraj112`       | Tableau Lead             |
+| Alok Kumar                  | `bigXalok`        | Report Lead              |
+| Balajee                     | `balajeein`       | Support                  |
 
 ---
 
@@ -90,12 +89,14 @@ Document KPI logic clearly in `notebooks/04_statistical_analysis.ipynb` and `not
 
 ## Tableau Dashboard
 
-| Item                 | Details                                                                                         |
-| -------------------- | ----------------------------------------------------------------------------------------------- |
-| **Dashboard URL**    | https://public.tableau.com/app/profile/somraj.nandi/viz/USARoadAccidentsIntelligence/Dashboard1 |
-| **Executive View**   | National KPI summary — total accidents, high-severity rate, top-5 states by volume              |
-| **Operational View** | Regional drill-down — city-level hotspots, severity heatmap, temporal breakdown                 |
-| **Main Filters**     | State, Severity Level, Weather Condition, Year                                                  |
+| Item                  | Details                                                                                                                      |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Dashboard 1**       | https://public.tableau.com/app/profile/somraj.nandi/viz/USARoadAccidentsIntelligence/Dashboard1                             |
+| **Dashboard 2**       | https://public.tableau.com/app/profile/somraj.nandi/viz/USARoadAccidentsIntelligence/Dashboard2                             |
+| **Dashboard 3**       | https://public.tableau.com/app/profile/somraj.nandi/viz/USARoadAccidentsIntelligence/Dashboard3                             |
+| **Executive View**    | National KPI summary — total accidents, high-severity rate, top-5 states by volume                                          |
+| **Operational View**  | Regional drill-down — city-level hotspots, severity heatmap, temporal breakdown                                              |
+| **Main Filters**      | State, Severity Level, Weather Condition, Year                                                                               |
 
 Store dashboard screenshots in [`tableau/screenshots/`](tableau/screenshots/) and document the public links in [`tableau/dashboard_links.md`](tableau/dashboard_links.md).
 
@@ -242,13 +243,13 @@ The project follows a structured 7-step workflow:
 
 **Presentation Deck**
 
-- [ ] Final presentation exported as PDF into `reports/`
-- [ ] Title slide through recommendations, impact, limitations, and next steps
+- [x] Final presentation exported as PDF into `reports/`
+- [x] Title slide through recommendations, impact, limitations, and next steps
 
 **Individual Assets**
 
-- [ ] DVA-oriented resume updated to include this capstone
-- [ ] Portfolio link or project case study added
+- [x] DVA-oriented resume updated to include this capstone
+- [x] Portfolio links added — see below
 
 ---
 
@@ -256,19 +257,29 @@ The project follows a structured 7-step workflow:
 
 This table must match evidence in GitHub Insights, PR history, and committed files.
 
-| Team Member   | Dataset and Sourcing | ETL and Cleaning  | EDA and Analysis  | Statistical Analysis | Tableau Dashboard | Report Writing    | PPT and Viva      |
-| ------------- | -------------------- | ----------------- | ----------------- | -------------------- | ----------------- | ----------------- | ----------------- |
-| AalokeCode    | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| aryankinha    | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| punityadavrao | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| somraj112     | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_ |
-| bigXalok      | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_    | _Owner / support_ | _Owner / support_ | _Owner / support_ |
+| Team Member              | Dataset  | ETL      | EDA      | Stats    | Tableau  | Report   | PPT/Viva |
+| ------------------------ | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| Aaloke (AalokeCode)      | **Lead** | Sup.     | Sup.     | Sup.     | Sup.     | Sup.     | **Lead** |
+| Aryan (aryankinha)       | Sup.     | **Lead** | **Lead** | **Lead** | Sup.     | Sup.     | Sup.     |
+| Punit (punityadavrao)    | Sup.     | Sup.     | Sup.     | Sup.     | Sup.     | Sup.     | Sup.     |
+| Somraj (somraj112)       | Sup.     | Sup.     | Sup.     | Sup.     | **Lead** | Sup.     | Sup.     |
+| Alok (bigXalok)          | Sup.     | Sup.     | Sup.     | Sup.     | Sup.     | **Lead** | Sup.     |
+| Balajee (balajeein)      | Sup.     | Sup.     | Sup.     | Sup.     | Sup.     | Sup.     | Sup.     |
 
 _Declaration: We confirm that the above contribution details are accurate and verifiable through GitHub Insights, PR history, and submitted artifacts._
 
 **Team Lead Name:** AalokeCode
 
-**Date:** _To be filled_
+**Date:** April 2026
+
+---
+
+## Portfolio
+
+| Member           | Portfolio Link                                   |
+| ---------------- | ------------------------------------------------ |
+| Punit Yadav Rao  | https://dva-portfolio-lime.vercel.app/           |
+| Somraj Nandi     | https://somraj112.github.io/DVAPortfolio/        |
 
 ---
 
